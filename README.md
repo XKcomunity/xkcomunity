@@ -3,7 +3,7 @@
 <h3 align="center">En el mundo de la programación, la comunidad es una de las claves para el éxito,
 la posibilidad de compartir conocimientos  es esencial para el crecimiento de los desarrolladores y la evolución de la tecnología. </h3>
 
-<h3 align="center">Compartimos recursos,  snippet de codigo, como tambien articulos,  conocimientos y habilidades, para hacer de ti un desarrollador actualizado. Somos la oportunidad para mejorar tus habilidades y ser parte de una comunidad apasionada que comparte tu interés por la programación. </h3>
+<h3 align="center">Compartimos recursos, Tutoriales, cursos, snippet de codigo, como tambien articulos,  conocimientos y habilidades, para hacer de ti un desarrollador actualizado. Somos la oportunidad para mejorar tus habilidades y ser parte de una comunidad apasionada que comparte tu interés por la programación. </h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xkcomunity&label=Profile%20views&color=0e75b6&style=flat" alt="xkcomunity" /> </p>
